@@ -30,7 +30,7 @@ Hi there! I'm **Aziz Rahman**, a passionate **MERN Stack Developer** with a keen
 
 ## 🛠️ Skills & Technologies
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React]([https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white](https://i.pinimg.com/474x/25/e6/38/25e63889dbfb6aef7aea8352ef60dbae.jpg))
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
