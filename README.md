@@ -50,9 +50,9 @@ Hi there! I'm **Aziz Rahman**, a passionate **MERN Stack Developer** with a keen
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 
 ## 📊 GitHub Stats
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxaziz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxaziz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxaziz&theme=radical)
 
 ---
 🔗 **Profile README last updated:** `$(date +'%Y-%m-%d')`
