@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="295" width="900" src="https://i.ibb.co.com/7N6c848V/Banner.png"  />
+  <img height="275" width="900" src="https://i.ibb.co.com/7N6c848V/Banner.png"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
