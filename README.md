@@ -81,7 +81,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MxAziz&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MxAziz&theme=dark)](https://git.io/streak-stats)
 
 
 
