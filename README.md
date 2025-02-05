@@ -81,7 +81,10 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MxAziz&theme=dark)](https://git.io/streak-stats)
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MxAziz&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MxAziz&theme=tokyonight&hide_border=true)
+
 
 
 
