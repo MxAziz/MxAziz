@@ -79,37 +79,21 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MxAziz&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MxAziz&theme=tokyonight&hide_border=true)
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MxAziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MxAziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="center">🔥 My Stats :</h2>
-<p align=center>
-  <div align=center>
+<h2 align="">🔥 My Stats :</h2>
+<p align=>
+  <div align=>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img height=200 align="center" src="https://streak-stats.demolab.com/?user=MxAziz&theme=react&border=61dafb&hide_border=true" alt="MxAziz" />
     </a>
   </div>
   <br>
-  <div align=center>
+  <div align=>
      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MxAziz&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="MxAziz" />
     </a>
   </div>
   <br>
-  <div align=center>
+  <div align=>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MxAziz&hide=Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="MxAziz" />
     </a>
