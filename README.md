@@ -81,7 +81,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MxAziz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.liuli.lol/?user=MxAziz&theme=tokyonight&hide_border=true)
+
 
 
 <div align="center">
