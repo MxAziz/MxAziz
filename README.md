@@ -79,7 +79,7 @@
 
 ###
 
-<h2 align="">🔥 My Stats :</h2>
+<h2 align="">⚡ My Stats :</h2>
 <p align=>
   <div align=>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
