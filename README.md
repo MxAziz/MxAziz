@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🚀 Exploring Next.js & TypeScript<br>🌍 Working on a Restaurant Web Application.<br>📚 Learning Linux (Fedora) for development.</p>
+<p align="left">🚀 Exploring Moongose & TypeScript<br>🌍 Working on a Restaurant Web Application.<br>📚 Learning Linux (Fedora) for development.</p>
 
 ###
 
