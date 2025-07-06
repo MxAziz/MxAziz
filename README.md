@@ -8,6 +8,9 @@
 
 ###
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadaziz10&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadaziz10" /> </p>
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
