@@ -16,9 +16,9 @@
 ###
 
 <p align="left">Hi there! I'm Muhammad Aziz, a passionate Full Stack Developer with a keen interest in building scalable web applications. I enjoy solving complex problems and continuously learning new technologies. Let's connect and collaborate! 🤝</p>
-- 🎓 ICE Student at PUST
-- 💬 Ask me about React, Express, MongoDB, Mongoose
-- ⚡ Fun fact: I love debugging more than coding 😄
+- 🎓 ICE Student at PUST <br>
+- 💬 Ask me about React, Express, MongoDB, Mongoose <br>
+- ⚡ Fun fact: I love debugging more than coding 😄 
 
 ###
 
@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" style="background-color: white; border-radius: 5px;" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
 </div>
