@@ -16,6 +16,9 @@
 ###
 
 <p align="left">Hi there! I'm Muhammad Aziz, a passionate Full Stack Developer with a keen interest in building scalable web applications. I enjoy solving complex problems and continuously learning new technologies. Let's connect and collaborate! 🤝</p>
+- 🎓 ICE Student at PUST
+- 💬 Ask me about React, Express, MongoDB, Mongoose
+- ⚡ Fun fact: I love debugging more than coding 😄
 
 ###
 
@@ -102,5 +105,8 @@
     </a>
   </div>
 </p>
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 
 
