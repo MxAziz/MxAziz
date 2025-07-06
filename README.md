@@ -9,7 +9,7 @@
 ###
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MxAziz&label=Profile%20views&color=03A6A1&style=flat" alt="MxAziz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MxAziz&label=Profile%20views&color=52357B&style=flat" alt="MxAziz" /> </p>
 
 
 
@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" height="40" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
   <img width="12" />
@@ -51,13 +51,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" height="40" width="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Mongoose_Logo.png" height="40" alt="mongoose logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img width="12" />
