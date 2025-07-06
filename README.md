@@ -9,8 +9,8 @@
 ###
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MxAziz&label=Profile%20views&color=0e75b6&style=flat" alt="MxAziz" /> </p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MxAziz.MxAziz)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MxAziz&label=Profile%20views&color=03A6A1&style=flat" alt="MxAziz" /> </p>
+
 
 
 <h3 align="left">👩‍💻  About Me</h3>
