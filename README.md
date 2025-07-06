@@ -10,6 +10,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MxAziz&label=Profile%20views&color=0e75b6&style=flat" alt="MxAziz" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MxAziz)
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -56,13 +58,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github logo"  />
-  <img width="12" />
-  
+  <img width="12" />  
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" alt="github logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github logo" style="background-color: white; padding: 5px; border-radius: 8px;" />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
@@ -89,6 +87,11 @@
   </a>
 </div>
 
+### 📄 Resume
+
+[Click to View My Resume](https://drive.google.com/file/d/1Pwx6ZaDwElIqEjcdVLUe_rFsGpe74rT2/view?usp=sharing)
+
+
 ###
 
 <h2 align="">⚡ My Stats :</h2>
@@ -113,6 +116,14 @@
 </p>
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+
+---
+
+
+```markdown
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
 
