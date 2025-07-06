@@ -9,7 +9,7 @@
 ###
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadaziz10&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadaziz10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MxAziz&label=Profile%20views&color=0e75b6&style=flat" alt="MxAziz" /> </p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
