@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Muhammad Aziz | Frontend Developer | Full Stack Enthusiast</h1>
+<h1 align="left">Muhammad Aziz | Frontend Developer | Full Stack Developer</h1>
 
 ###
 
