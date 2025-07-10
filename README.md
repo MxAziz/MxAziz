@@ -48,6 +48,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -98,6 +99,8 @@
   <a href="https://discord.com/channels/@mr.mxaziz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="38" alt="discord logo"  />
   </a>
+
+  <p align="left"> <a href="https://twitter.com/@mr.mxaziz" target="blank"><img src="https://img.shields.io/twitter/follow/@mr.mxaziz?logo=twitter&style=for-the-badge" alt="@mr.mxaziz" /></a> </p>
 </div>
 
 ### 📄 Resume
