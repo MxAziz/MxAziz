@@ -122,6 +122,9 @@
   <a href="https://www.hackerrank.com/profile/MxAziz" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=437057&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+  <a href="https://mxaziz.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-725CAD?style=for-the-badge&logo=Google-Chrome&logoColor=white" height="35" />
+</a>
 </div>
 
 
