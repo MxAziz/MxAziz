@@ -160,6 +160,18 @@
   </div>
 </p>
 
+<img src="https://raw.githubusercontent.com/MxAziz/MxAziz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MxAziz/MxAziz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MxAziz/MxAziz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MxAziz/MxAziz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
