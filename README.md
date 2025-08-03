@@ -36,8 +36,8 @@
 ###
 
 <p align="left">
-  🚀 Exploring Shadcn & Redux - Toolkit<br>
-  🌍 Working on a Restaurant Web Application.<br>
+  🚀 Exploring Multer & Redux - Toolkit<br>
+  🌍 Working on a Tour Management Web Application.<br>
   📚 Learning Linux (Fedora) for development.</p>
 
 ###
