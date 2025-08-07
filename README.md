@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Muhammad Aziz | Frontend Developer | Full Stack Developer</h1>
+<h1 align="left">Muhammad Aziz | Full Stack Developer | MERN Stack Developer</h1>
 
 ###
 
@@ -107,8 +107,14 @@
   <a href="https://www.linkedin.com/in/mxaziz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://mxaziz.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-725CAD?style=for-the-badge&logo=Google-Chrome&logoColor=white" height="35" />
+  </a>
   <a href="https://discord.com/channels/@mr.mxaziz" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/MxAziz" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=437057&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="mailto:hereabdulaziz@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -119,12 +125,6 @@
   <a href="https://x.com/Mr_MxAziz" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/MxAziz" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=437057&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://mxaziz.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-725CAD?style=for-the-badge&logo=Google-Chrome&logoColor=white" height="35" />
-</a>
 </div>
 
 
