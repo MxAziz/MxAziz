@@ -20,7 +20,8 @@
 
 <p align="left">Hi there! I'm Muhammad Aziz, a passionate Full Stack Developer with a keen interest in building scalable web applications. I enjoy solving complex problems and continuously learning new technologies. Let's connect and collaborate! 🤝</p>
 
-<img align="right" height="123" src="https://i.pinimg.com/736x/8b/65/0f/8b650ff305e5142cc5a0eeb6f5723ed9.jpg"  />
+<!-- <img align="right" height="123" src="https://i.pinimg.com/736x/8b/65/0f/8b650ff305e5142cc5a0eeb6f5723ed9.jpg"  /> -->
+<img align="right" height="123" src="https://i.ibb.co.com/QvrgFSqh/full-stack-developer.png"  />
 
 ###
 
