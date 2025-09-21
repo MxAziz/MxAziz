@@ -93,7 +93,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/gnu-bash-logo-light.svg" height="40" alt="bash"/>
+  <img src="[https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/gnu-bash-logo-light.svg](https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png)" height="40" alt="bash"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="figma logo"  />
   <img width="12" />
