@@ -82,7 +82,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img width="12" />
 <!--   <img src="https://i.ibb.co.com/v6Jh4zQY/prisma.png" alt="Prisma" height="55" /> -->
-  <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="40" width="40" />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
   <img width="12" />
@@ -94,7 +94,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img width="12" />
-  <img src="https://i.ibb.co.com/yTGt4zK/bash.png" height="45" alt="bash"/>
+  <img src="https://i.ibb.co.com/yTGt4zK/bash.png" height="45" width="45" alt="bash"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="figma logo"  />
   <img width="12" />
