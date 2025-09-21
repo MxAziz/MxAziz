@@ -85,12 +85,8 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="45" />
   <img width="12" />
 
-<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.svg" alt="Prisma" height="40"/>
-<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.svg" alt="Prisma" height="40"/>
-![Prisma](https://img.shields.io/badge/Prisma-ORM-blue)
-<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.svg" height="40" alt="Prisma"/> 
-<span style="font-size:20px;">Prisma ORM</span>
-
+  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.svg" alt="Prisma" height="40"/>
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
   <img width="12" />
