@@ -81,7 +81,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img width="12" />
-  <img src="https://i.ibb.co.com/v6Jh4zQY/prisma.png" alt="Prisma" height="55" />
+<!--   <img src="https://i.ibb.co.com/v6Jh4zQY/prisma.png" alt="Prisma" height="55" /> -->
+  <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="45" />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
   <img width="12" />
