@@ -55,8 +55,8 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="45" width="45" />
-  <img width="12" />
+  <!-- <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="45" width="45" /> -->
+  <!-- <img width="12" /> -->
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" width="40" />
