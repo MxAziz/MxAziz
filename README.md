@@ -38,8 +38,8 @@
 ###
 
 <p align="left">
-  🚀 Exploring Multer & Redux - Toolkit<br>
-  🌍 Working on a Tour Management Web Application.<br>
+  🚀 Exploring Docker & Socket.io<br>
+  🌍 Working on a Daktar-Chai Web Application.<br>
   📚 Learning Linux (Fedora) for development.</p>
 
 ###
